@@ -4,7 +4,7 @@
 
 class Cow < Formula
   desc "Climb Over the Wall"
-  homepage "https://github.com/njgarychow/Homebrew"
+  homepage "https://github.com/cyfdecyf/cow"
   url "https://codeload.github.com/njgarychow/Homebrew/tar.gz/cow-0.9.8"
   version "0.9.8"
   sha256 "8be83b5498ff8f350abf14eb4c58aaee8b141374ab263414aea18c1cf89e87f5"
